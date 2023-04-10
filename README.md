@@ -9,7 +9,7 @@
 
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
@@ -246,7 +246,7 @@ Now let's change our recently automated release from _draft_ to _latest release_
 </details>
 
 <!--Step 6-->
-<details id=6>
+<details id=6 open>
 <summary><h2>Step 6: Commit a hotfix to the release</h2></summary>
 
 _Almost there :heart:_
